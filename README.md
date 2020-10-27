@@ -8,6 +8,7 @@ new project-01
 <body>
 
 <h1>This is a Heading</h1>
+<p style="color:red;">This is a red paragraph.</p>
 <p>This is a paragraph.</p>
 
 </body>
